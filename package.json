@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
+  "baseurl":"/products-preview-card-components-main",
+  "url":"https://github.com/mukundsadani07",
+  "private": "true",
   "scripts": {
     "start": "vite",
     "build-css": "tailwindcss build -i style.css -o ./style.css"
